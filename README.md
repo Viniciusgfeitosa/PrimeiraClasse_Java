@@ -2,12 +2,20 @@
 
 Este projeto foi desenvolvido com o objetivo de aprender os conceitos básicos da linguagem Java, com foco em:
 
-Criação de classes
+Criação de classes.
+Definição de métodos.
+Estrutura de um programa Java.
+Apenas execução de um "Hello World".
 
-Definição de métodos
+# 📚 Conceitos praticados
 
-Estrutura de um programa Java
+Classes.
+Métodos.
+Método main.
+Estrutura básica de um programa Java.
 
-Execução de um "Hello World"
+É apenas um projeto inicial, voltado para inicio de estudos em java e a prática de lógica de programação e Programação Orientada a Objetos (POO).
 
-É um projeto inicial, voltado para estudos e prática de lógica de programação e Programação Orientada a Objetos (POO).
+# 💻 Exemplo de saída
+
+Hello World!
