@@ -1,5 +1,4 @@
-#☕ Primeira Classe Java
-#📌 Sobre o projeto
+# ☕ Primeira Classe Java
 
 Este projeto foi desenvolvido com o objetivo de aprender os conceitos básicos da linguagem Java, com foco em:
 
